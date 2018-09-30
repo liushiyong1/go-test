@@ -4,11 +4,11 @@ import (
 	"fmt"
 )
 
-func main(){
+func main() {
 	fmt.Println("Hello World")
 	test()
 }
 
-func test(){
-
+func test() {
+	fmt.Println("I'am from test")
 }
